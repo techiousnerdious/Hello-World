@@ -1,2 +1,5 @@
 # Hello-World
 A repository about me.
+
+
+Hey well after almost 17 years of doing odd and end jobs including being a sonar technician on a submarine, worm farming, wildlife removal, goat farming, various freelance computer debuging gigs, and now for the last five years I have been working as a part time dispatcher at UPS.  The last three year though I have been diligently hacking away at a bachelors degree in computer science.  I have learned a few languages includeing objective c, c++,.net using visual C, Java, and javascript.  I have also learned a few project managment techniques, Software engenering, and so on.  However, I want some real world experience, and I want to learn from people that have more of that real world experiance than I do.  Degrees are great, but in the end, it's just another piece of paper.  I believe in order to do something a person has to step out and do it in a non theoretical sence.  So hear I am.  I am going to need your help.  If you have experiecnce in making money writing programs, please share it with me.  
